@@ -1,5 +1,6 @@
 - Installing apache
 - installing PHP
+- creating php configuration
 -  createing config file
 - creating virtual host from template
 - restarting apache
