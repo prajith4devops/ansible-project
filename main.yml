@@ -3,5 +3,6 @@
 - creating php configuration
 -  createing config file
 - creating virtual host from template
+- creating documentroot for virtual host
 - restarting apache
 
